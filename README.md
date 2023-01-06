@@ -1,5 +1,5 @@
 # Recruiting Bookmarklets
-JavaScript Bookmarklets for Recruiting / Recruiters Written by Eric Putkonen
+JavaScript Bookmarklets for Recruiting / Recruiters written by Eric Putkonen
 
 # How to Create Bookmarklet for Your Own Use
 Copy raw code and creat/add a bookmark or page in the bookmarks toolbar.  Add name and paste code into URL section.
