@@ -1,0 +1,1 @@
+javascript:(function()%7Bjavascript%3A(function(w%2Cd) %7Bw.open('https%3A%2F%2Fwww.linkedin.com%2Fsearch%2Fresults%2Fcompanies%2F%3Fkeywords%3D'%2BencodeURIComponent(d.getSelection())%2C '_blank')%3B%7D)(window%2Cdocument)%7D)()
