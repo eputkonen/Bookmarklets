@@ -5,6 +5,13 @@ JavaScript Bookmarklets for Recruiting / Recruiters written by Eric Putkonen
 Copy raw code and creat/add a bookmark or page in the bookmarks toolbar.  Add name and paste code into URL section.
 
 # Description of Each
+
+ConvertHourlyToSalary.js
+- Calculate annual salary amount from highlighted hourly number
+
+ConvertSalaryToHourly.js
+- Calculate hourly pay amount from highlighted annual salary number
+
 Ihate.js
 - Search highlighted keyword or phrase for quick "I hate" search on Google.  May be used for negative reputation of company names.
 
