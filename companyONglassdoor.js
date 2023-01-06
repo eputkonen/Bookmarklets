@@ -1,0 +1,1 @@
+javascript:(function()%7Bjavascript%3A(function(w%2Cd) %7Bw.open('https%3A%2F%2Fwww.glassdoor.com%2FSearch%2Fresults.htm%3Fkeyword%3D'%2BencodeURIComponent(d.getSelection())%2C '_blank')%3B%7D)(window%2Cdocument)%7D)()
