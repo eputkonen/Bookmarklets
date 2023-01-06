@@ -2,7 +2,7 @@
 JavaScript Bookmarklets for Recruiting / Recruiters Written by Eric Putkonen
 
 # How to Create Bookmarklet for Your Own Use
-Copy raw code and creat/add a bookmark or page in the bookmarks toolbard.  Add name and paste code into URL section.
+Copy raw code and creat/add a bookmark or page in the bookmarks toolbar.  Add name and paste code into URL section.
 
 # Description of Each
 Ihate.js
