@@ -1,6 +1,8 @@
 # Bookmarklets
 JavaScript Bookmarklets for Recruiting / Recruiters Written by Eric Putkonen
 
+Copy raw code and creat/add a bookmark or page in the bookmarks toolbard.  Add name and paste code into URL section.
+
 
 Ihate.js
 - Search highlighted keyword or phrase for quick "I hate" search on Google.  May be used for negative reputation of company names.
