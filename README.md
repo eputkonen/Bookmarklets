@@ -1,4 +1,4 @@
-# Bookmarklets
+# Recruiting Bookmarklets
 JavaScript Bookmarklets for Recruiting / Recruiters Written by Eric Putkonen
 
 # How to Create Bookmarklet for Your Own Use
