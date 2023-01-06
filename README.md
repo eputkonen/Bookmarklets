@@ -3,10 +3,10 @@ JavaScript Bookmarklets for Recruiting / Recruiters Written by Eric Putkonen
 
 
 Ihate.js
-Enter keyword or phrase for quick "I hate" search on Google.  May be used for negative reputation of company names.
+- Enter keyword or phrase for quick "I hate" search on Google.  May be used for negative reputation of company names.
 
 TechStackAwesomeTechStack.js
-Enter domain name to do a tech stack analysis through AwesomeTechStack (free account).
+- Enter domain name to do a tech stack analysis through AwesomeTechStack (free account).
 
 TechStackBuiltwith.js
 - Enter domain name to do a tech stack analysis through Builtwith (free account).
