@@ -1,0 +1,1 @@
+javascript:let USDollar = new Intl.NumberFormat('en-US', {style: 'currency',currency: 'USD',});(function()%7Bjavascript%3A(function(w%2Cd) {alert(USDollar.format(encodeURIComponent(d.getSelection()))+' per hour would be '+USDollar.format(encodeURIComponent(d.getSelection())*2080)+' per annual.')})(window%2Cdocument)%7D)();
