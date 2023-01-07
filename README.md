@@ -13,7 +13,7 @@ ConvertSalaryToHourly.js
 - Calculate hourly pay amount from highlighted or typed in annual salary number
 
 Ihate.js
-- Search highlighted keyword or phrase for quick "I hate" search on Google.  May be used for negative reputation of company names.
+- Search typed in or highlighted keyword or phrase for quick "I hate" search on Google.  May be used for negative reputation of company names.
 
 TechStackAwesomeTechStack.js
 - Enter domain name to do a tech stack analysis through AwesomeTechStack (free account).
