@@ -46,4 +46,4 @@ nameORidONtwitter.js
 - Search highlighted name or ID on Twitter.
 
 tagONstackoverflow.js
-- Search highlighted technology for tags in StackOverflow.
+- Search typed in or highlighted technology for tags in StackOverflow.
