@@ -16,13 +16,13 @@ Ihate.js
 - Search typed in or highlighted keyword or phrase for quick "I hate" search on Google.  May be used for negative reputation of company names.
 
 TechStackAwesomeTechStack.js
-- Enter domain name to do a tech stack analysis through AwesomeTechStack (free account).
+- Highlight or enter domain name to do a tech stack analysis through AwesomeTechStack (free account).
 
 TechStackBuiltwith.js
-- Enter domain name to do a tech stack analysis through Builtwith (free account).
+- Highlight or enter domain name to do a tech stack analysis through Builtwith (free account).
 
 TechStackWappalyzer.js
-- Enter domain name to do a tech stack analysis through Wappalyzer (free account).
+- Highlight or enter domain name to do a tech stack analysis through Wappalyzer (free account).
 
 companyONfairygodboss.js
 - Search typed in or highlighted company name on Fair God Boss.
