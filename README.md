@@ -40,7 +40,7 @@ nameONlinkedin.js
 - Search highlighted name on LinkedIn.
 
 nameONxing.js
-- Search highlighted name on Xing.
+- Search typed in or highlighted name on Xing.
 
 nameORidONtwitter.js
 - Search highlighted name or ID on Twitter.
