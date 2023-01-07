@@ -7,10 +7,10 @@ Copy raw code and creat/add a bookmark or page in the bookmarks toolbar.  Add na
 # Description of Each
 
 ConvertHourlyToSalary.js
-- Calculate annual salary amount from highlighted hourly number
+- Calculate annual salary amount from highlighted or typed in hourly number
 
 ConvertSalaryToHourly.js
-- Calculate hourly pay amount from highlighted annual salary number
+- Calculate hourly pay amount from highlighted or typed in annual salary number
 
 Ihate.js
 - Search highlighted keyword or phrase for quick "I hate" search on Google.  May be used for negative reputation of company names.
