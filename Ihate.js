@@ -1,1 +1,1 @@
-javascript:(function()%7Bjavascript%3A(function(w%2Cd) %7Bw.open('https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3D%22I+hate%22%20'%2BencodeURIComponent(d.getSelection())%2C '_blank')%3B%7D)(window%2Cdocument)%7D)()
+idn%27t%20select%20any%20text.%20%20Enter%20a%20search%20term:%22,%20%22%22);%20if%20(q!=null)%20location=%22http://www.google.com/search?q=I hate%20%22+escape(q).replace(/%20/g,%20%22+%22);%20void%200
