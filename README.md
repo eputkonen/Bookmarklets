@@ -15,6 +15,9 @@ ConvertSalaryToHourly.js
 Ihate.js
 - Search typed in or highlighted keyword or phrase for quick "I hate" search on Google.  May be used for negative reputation of company names.
 
+ResumeSearch4TampaBay.js
+- Type in keywords to Google search for resumes.
+
 TechStackAwesomeTechStack.js
 - Highlight or enter domain name to do a tech stack analysis through AwesomeTechStack (free account).
 
