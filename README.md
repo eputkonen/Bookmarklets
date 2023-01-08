@@ -12,6 +12,9 @@ ConvertHourlyToSalary.js
 ConvertSalaryToHourly.js
 - Calculate hourly pay amount from highlighted or typed in annual salary number
 
+GoogleSearch.js
+- Highlight or enter terms/phrases to search on Google.
+
 Ihate.js
 - Search typed in or highlighted keyword or phrase for quick "I hate" search on Google.  May be used for negative reputation of company names.
 
