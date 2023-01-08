@@ -18,6 +18,9 @@ Ihate.js
 ResumeSearch4TampaBay.js
 - Type in keywords to Google search for resumes.
 
+SearchGithubByTech4Tampa.js
+- Highlight or enter technology keyword/tag to search GitHub users with tag in Tampa
+
 TechStackAwesomeTechStack.js
 - Highlight or enter domain name to do a tech stack analysis through AwesomeTechStack (free account).
 
