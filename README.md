@@ -13,10 +13,10 @@ ConvertSalaryToHourly.js
 - Calculate hourly pay amount from highlighted or typed in annual salary number
 
 GoogleSearch.js
-- Highlight or enter terms/phrases to search on Google.
+- Highlight or enter terms/phrases to search on Google
 
 Ihate.js
-- Search typed in or highlighted keyword or phrase for quick "I hate" search on Google.  May be used for negative reputation of company names.
+- Search typed in or highlighted keyword or phrase for quick "I hate" search on Google.  May be used for negative reputation of company names
 
 ResumeSearch4TampaBay.js
 - Type in keywords to Google search for resumes.
@@ -25,34 +25,49 @@ SearchGithubByTech4Tampa.js
 - Highlight or enter technology keyword/tag to search GitHub users with tag in Tampa
 
 TechStackAwesomeTechStack.js
-- Highlight or enter domain name to do a tech stack analysis through AwesomeTechStack (free account).
+- Highlight or enter domain name to do a tech stack analysis through AwesomeTechStack (free account)
 
 TechStackBuiltwith.js
-- Highlight or enter domain name to do a tech stack analysis through Builtwith (free account).
+- Highlight or enter domain name to do a tech stack analysis through Builtwith (free account)
 
 TechStackWappalyzer.js
-- Highlight or enter domain name to do a tech stack analysis through Wappalyzer (free account).
+- Highlight or enter domain name to do a tech stack analysis through Wappalyzer (free account)
+
+XrayLinkedin2entries.js
+- X-ray LinkedIn for profiles with two entries: skill keywords and location keywords
+
+XrayLinkedinTampa.js
+- X-ray LinkedIn for profiles in Tampa and entering keywords
+
+XrayStackOverlowUsers2entries.js
+- X-ray StackOverflow for users with two entries: skill keywords and location keywords
+
+XrayStackOverlowUsersTampa.js
+- X-ray StackOverflow for users in Tampa and entering keywords
+
+XrayThisSite.js
+- X-ray the site you are currently on with keywords
 
 companyONfairygodboss.js
-- Search typed in or highlighted company name on Fair God Boss.
+- Search typed in or highlighted company name on Fair God Boss
 
 companyONglassdoor.js
-- Search typed in or highlighted company name on Glassdoor.
+- Search typed in or highlighted company name on Glassdoor
 
 companyONlinkedin.js
-- Search typed in or highlighted company name on Linkedin.
+- Search typed in or highlighted company name on Linkedin
 
 nameONfacebook.js
-- Search typed in or highlighted name on Facebook.
+- Search typed in or highlighted name on Facebook
 
 nameONlinkedin.js
-- Search typed in or highlighted name on LinkedIn.
+- Search typed in or highlighted name on LinkedIn
 
 nameONxing.js
-- Search typed in or highlighted name on Xing.
+- Search typed in or highlighted name on Xing
 
 nameORidONtwitter.js
-- Search typed in or highlighted name or ID on Twitter.
+- Search typed in or highlighted name or ID on Twitter
 
 tagONstackoverflow.js
-- Search typed in or highlighted technology for tags in StackOverflow.
+- Search typed in or highlighted technology for tags in StackOverflow
