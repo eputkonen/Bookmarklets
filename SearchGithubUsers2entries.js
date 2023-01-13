@@ -1,0 +1,1 @@
+javascript:(function(){javascript:(function(){var p=prompt('Search users on GitHub. Enter tag to search:',''),l=prompt("Enter location to search:");if(p){document.location.href='https://github.com/search?type=Users&q=followers:%3E50+location:%27+escape(l)+%27+language:%27+escape(p)}})()})();
