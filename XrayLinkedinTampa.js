@@ -1,0 +1,1 @@
+javascript:(function()%7Bjavascript%3A(function()%7Bvar p%3Dprompt('X Ray search for Tampa on LinkedIn%3A'%2C'')%3Bif(p)%7Bdocument.location.href%3D'https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dsite%253Alinkedin.com%2Fin%2B"Tampa"%2B'%2Bescape(p)%7D%7D)()%7D)();
