@@ -1,0 +1,1 @@
+javascript:(function(){javascript:(function(){var p=prompt('X Ray search on StackOverflow. Enter keywords to search:',''),l=prompt("Enter location keywords:");if(p){document.location.href='https://www.google.com/search?q=site:stackoverflow.com/users+%27+escape(l)+%27 %27+escape(p)}})()})();
