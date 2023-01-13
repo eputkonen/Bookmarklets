@@ -48,9 +48,6 @@ XrayStackOverlowUsers2entries.js
 XrayStackOverlowUsersTampa.js
 - X-ray StackOverflow for users in Tampa and entering keywords
 
-XrayThisSite.js
-- X-ray the site you are currently on with keywords
-
 companyONfairygodboss.js
 - Search typed in or highlighted company name on Fair God Boss
 
