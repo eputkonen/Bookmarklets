@@ -1,0 +1,1 @@
+javascript:(function(){javascript:(function(){var p=prompt('X Ray search on LinkedIn. Enter keywords to search:',''),l=prompt("Enter location keywords:");if(p){document.location.href='https://www.google.com/search?q=site:linkedin.com/in+%27+escape(l)+%27 %27+escape(p)}})()})();
