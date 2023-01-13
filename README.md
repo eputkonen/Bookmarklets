@@ -15,11 +15,17 @@ ConvertSalaryToHourly.js
 Ihate.js
 - Search typed in or highlighted keyword or phrase for quick "I hate" search on Google.  May be used for negative reputation of company names
 
+ResumeSearch2entries.js
+- Google search for resumes with two entries: skill keywords and location keywords
+
 ResumeSearch4TampaBay.js
-- Type in keywords to Google search for resumes.
+- Type in keywords to Google search for resumes
 
 SearchGithubByTech4Tampa.js
 - Highlight or enter technology keyword/tag to search GitHub users with tag in Tampa
+
+SearchGithubUsers2entries.js
+- Search GitHub for users with two entries: skill keywords and location keywords
 
 TechStackAwesomeTechStack.js
 - Highlight or enter domain name to do a tech stack analysis through AwesomeTechStack (free account)
