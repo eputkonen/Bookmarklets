@@ -54,6 +54,9 @@ companyONfairygodboss.js
 companyONglassdoor.js
 - Search typed in or highlighted company name on Glassdoor
 
+companyONindeed.js
+- Search typed in or highlighted company name on Indeed (reviews)
+
 companyONlinkedin.js
 - Search typed in or highlighted company name on Linkedin
 
